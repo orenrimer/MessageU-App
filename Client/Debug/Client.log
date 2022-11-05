@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  The contents of <format> are available only with C++20 or later.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  SocketHandler.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Oren\Documents\Projects\MessageU\Client\SocketHandler.cpp(111,80): warning C4333: '>>': right shift by too large amount, data loss
+  Generating Code...
+  Client.vcxproj -> C:\Users\Oren\Documents\Projects\MessageU\Client\Debug\Client.exe
